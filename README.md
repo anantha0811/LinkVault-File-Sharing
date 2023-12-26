@@ -15,11 +15,17 @@ pnpm dev
 bun dev
 
 Technologies used:
+
 Next.js 14
+
 Hyper UI
+
 React.js
+
 Tailwind CSS
+
 Clerk authentication
+
 Firebase
 
 Contribution:
